@@ -1,0 +1,14 @@
+[
+  {
+    "relation": [
+      "delegate_permission/common.handle_all_urls"
+    ],
+    "target": {
+      "namespace": "android_app",
+      "package_name": "dev.hatland.myapp",
+      "sha256_cert_fingerprints": [
+        "21:47:65:1F:D5:4D:F9:72:E8:28:66:BA:81:08:9D:5A:DB:5D:20:BF:F7:EA:63:7B:7A:54:37:12:9E:92:5B:C4"
+      ]
+    }
+  }
+]
